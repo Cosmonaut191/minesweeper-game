@@ -1,8 +1,15 @@
 
-
 ## Games Included
 
 This project includes the following games:
+
+
+## Game Screenshots
+
+    ### Minesweeper and Tic Tac Toe
+    ![Minesweeper and Tic Tac Toe](path/to/screenshot.png)
+
+    This screenshot shows the Minesweeper and Tic Tac Toe games available in the application. Players can start a new game of Minesweeper or reset the Tic Tac Toe game from this interface.
 
 ### Minesweeper
 - **Objective**: Clear a grid of hidden mines without detonating any.
